@@ -118,17 +118,26 @@ The application incorporates a decoupled command classification engine (built-in
 
 ## 📸 Screenshots
 
-### Shell Initialization & Prompt Configuration:
-![Prompt_Initialization](screenshots/shell_init.png)
+### Main:
+![Main](screenshots/mini_main.png)
 
-### Built-in & External Command Execution:
-![Command_Execution](screenshots/cmd_execution.png)
+### Header:
+![Header](screenshots/mini_header.png)
 
-### Multi-stage Pipe Implementation:
-![Piping_Execution](screenshots/pipe_execution.png)
+### Scan_Input:
+![Scan_input](screenshots/mini_scan_input.png)
+
+### Command-extract from input:
+![Piping_Execution](screenshots/mini_command.png)
+
+### Signal_Handler:
+![Header](screenshots/mini_signal%20handler.png)
 
 ### Job Control Workflow (Ctrl+Z, jobs, bg, fg):
-![Job_Control_Execution](screenshots/job_control.png)
+![Job_Control_Execution](screenshots/mini_job_control.png)
+
+### Output:
+![Scan_input](screenshots/mini_output.png)
 
 ---
 
